@@ -1,0 +1,14 @@
+{
+  "name": "bhagavad-gita-ua",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsm-ua/bhagavad-gita-ua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsm-ua/bhagavad-gita-ua/issues"
+  },
+  "homepage": "https://github.com/scsm-ua/bhagavad-gita-ua#readme"
+}
